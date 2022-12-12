@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: dnrdls7/resume
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -7,31 +7,20 @@ version: 2
 
 # Personal info
 name: 정재욱
-title: 백엔드 개발자
+title: Backend Developer
 email: dnrdls77@gmail.com
 # email_title: Email (Email title override)
 phone: 010-4706-7792
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://velog.io/@dnrdls7
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
-twitter_username: 
-github_username:  dnrdls7
-stackoverflow_username: "19696849"
-dribbble_username: 
-facebook_username: 
-flickr_username: 
-instagram_username: 
-linkedin_username: 
-xing_username: 
-pinterest_username: 
+github_username: dnrdls7
 youtube_username: dnrdls77
-orcid_username: 
-googlescholar_username: 
 
 # Additional icon links
 additional_links:
