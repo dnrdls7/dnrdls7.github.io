@@ -97,13 +97,21 @@ content:
     layout: list
     content:
       - layout: left
-        title: 위코드 백엔드 부트캠프
-        sub_title: Qualifications (eg. BA Performing Arts)
+        title: 위코드 부트캠프
+        sub_title: 
         caption: 2022.09 ~ 2022.12
         quote: >
-          Short institution or course description (optional)
+          백엔드 과정 수료
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          - node.js, express, MySQL 을 사용한 코드 교육
+      - layout: left
+        title: 위코드
+        sub_title: 
+        caption: 2022.09 ~ 2022.12
+        quote: >
+          백엔드 부트캠프 과정 수료
+        description: | # this will include new lines to allow paragraphs
+          - node.js, express, MySQL 을 사용한 코드 교육
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
