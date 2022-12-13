@@ -36,7 +36,7 @@ googlescholar_username:
 # Additional icon links
 additional_links:
 - title: velog
-  icon: fab fa-solid fa-blog
+  icon: fab fa-blog
   url: https://velog.io/@dnrdls7
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
